@@ -1,0 +1,5 @@
+----------- Receipt -----------
+Transaction Type : Withdrawal
+Amount           : ₹80.00
+Available Balance: ₹10919.00
+-------------------------------
